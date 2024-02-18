@@ -1,6 +1,6 @@
 # SC1015-Labs
 
-All codes available in [GitHub](https://github.com/pufanyi/SC1015-Labs).
+All data are available in [GitHub](https://github.com/pufanyi/SC1015-Labs).
 
 - [Lab 1](lab1)
 - [Lab 2](lab2)
